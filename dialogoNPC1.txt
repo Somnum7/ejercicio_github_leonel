@@ -1,3 +1,4 @@
 Buenas tardes.
 Hay criaturas afuera.
 ¿Quieres ver la tienda?
+["dialogoNPC-NO"]
